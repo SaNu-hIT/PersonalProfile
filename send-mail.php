@@ -1,8 +1,8 @@
 <?php
 
 	// site owner
-	$site_name = 'Saneeh VS Profile';
-	$sender_domain = 'server@your-domain.com';
+	$site_name = 'freelancer';
+	$sender_domain = 'saneesh@intellyze.com';
 	$to = 'sanufeliz@gmail.com';
 
 
